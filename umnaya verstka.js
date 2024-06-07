@@ -22,4 +22,4 @@ function adjustLayout() {
 window.onload = adjustLayout;
 
 // Добавляем обработчик события при изменении размера окна
-window.onresize = adjustLayout;
+window.onresize = adjustLayout;// это же не умная верстака, это шляпа
